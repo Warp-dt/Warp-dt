@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+For more information and to collaborate on my projects, you can join my discord server: https://discord.gg/dfDV8Zvwqp
+
 <!--
 **Warp-dt/Warp-dt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
